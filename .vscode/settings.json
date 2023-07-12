@@ -1,7 +1,7 @@
 {
   "window.zoomLevel": 0.5,
   "code-runner.executorMap": {
-    "typescript": "clear && npx ts-node --files --transpile-only",
+    "typescript": "clear && npx ts-node  --transpile-only",
     "javascript":"node",
     "python": "clear && venv/bin/python",
   },
@@ -14,5 +14,6 @@
   "editor.fontFamily": "JetBrains Mono",
   "editor.tabSize": 2,
   "editor.fontSize": 18,
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.automationProfile.windows": {}
 }
