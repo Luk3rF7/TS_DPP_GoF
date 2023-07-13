@@ -1,5 +1,5 @@
 import { VehicleFactory } from './vehicle-factory';
-import { Vehicle } from '../vehicle/vehicle';
+import { Vehicle } from '../vehicle/interface/vehicle';
 import { Bicycle } from '../vehicle/bicycle';
 
 export class BicycleFactory extends VehicleFactory {
