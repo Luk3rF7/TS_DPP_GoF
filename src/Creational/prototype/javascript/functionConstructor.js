@@ -14,5 +14,14 @@ const personConstructor = {
 };
 Person.prototype = Object.create(personConstructor);
 Person.prototype.constructor = Person;
+
+function subPerson(fistName, lastname, age) {
+  Person.call(this, fistName, lastname, age);
+  this.fromSubClass = 'subClasse!';
+}
+Person.prototype = Object.create(Person.prototype);
+Person.prototype.constructor = subPerson;
 const person1 = new Person('Felipe', 'Dev', 29);
 console.log(person1);
+const person2 = new subPerson('User', 'Dev', 29);
+console.log(person2);
