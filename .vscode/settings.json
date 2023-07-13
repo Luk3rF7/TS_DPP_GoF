@@ -2,7 +2,7 @@
   "window.zoomLevel": 0.5,
   "code-runner.executorMap": {
     "typescript": "clear && npx ts-node  --transpile-only",
-    "javascript":"node",
+    "javascript":"clear && node",
     "python": "clear && venv/bin/python",
   },
   "editor.codeActionsOnSave": {

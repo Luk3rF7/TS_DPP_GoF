@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const my_database_function_1 = require("./db/my-database-function");
+const myDbClassic = my_database_function_1.MyDateBaseFunction;
+myDbClassic.add({ name: 'user1', age: 18 });
+myDbClassic.add({ name: 'user2', age: 45 });
+myDbClassic.add({ name: 'user3', age: 80 });
+myDbClassic.add({ name: 'user4', age: 58 });
+myDbClassic.add({ name: 'user5', age: 28 });
+myDbClassic.remove(2);
+myDbClassic.show();
