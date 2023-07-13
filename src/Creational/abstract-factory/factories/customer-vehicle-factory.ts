@@ -1,5 +1,5 @@
 import { Customer } from '../customer/customer';
-import { Vehicle } from '../../factory-method/vehicle/vehicle';
+import { Vehicle } from '../../factory-method/vehicle/interface/vehicle';
 
 export interface CreateVehicleCustomerFactory {
   createCustomer(customerName: string): Customer;

@@ -1,4 +1,4 @@
-import { Vehicle } from '../vehicle/vehicle';
+import { Vehicle } from '../vehicle/interface/vehicle';
 
 export abstract class VehicleFactory {
   // Factory Method
