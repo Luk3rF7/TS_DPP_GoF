@@ -46,4 +46,4 @@ const validateNumber = new ValidateNumber();
 const validateString = new ValidateString();
 const validationComposite = new ValidationComposite();
 validationComposite.add(validateString, validateEmail, validateNumber);
-console.log(validationComposite.validate('luiz123@email.com'));
+console.log(validationComposite.validate('user123@email.com'));

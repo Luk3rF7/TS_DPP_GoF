@@ -1,5 +1,5 @@
 {
-  "window.zoomLevel": 0.5,
+  "window.zoomLevel": 0.3,
   "code-runner.executorMap": {
     "typescript": "clear && npx ts-node  --transpile-only",
     "javascript":"clear && node",
