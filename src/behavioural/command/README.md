@@ -8,7 +8,6 @@
 
 ## Sobre o Command
 
-Em vídeo: https://www.youtube.com/watch?v=WwDnYXr7jqk&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=29
 
 Command é um padrão de projeto que tem a intenção de encapsular um comando diretamente em um objeto. Na verdade é um padrão bem simples, por ser a versão orientada a objetos para funções de callback, ou seja, se você conhece funções de callback, conhece o padrão command.
 
