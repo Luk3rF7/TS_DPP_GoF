@@ -8,8 +8,6 @@
 
 ## Sobre o Proxy
 
-Em vídeo: https://www.youtube.com/watch?v=EsxPyICeBPs&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=23
-
 Proxy é um padrão de projeto muito similar a outros padrões que usam composição, como *Composite* e *Decorator*. Apesar disso, as intenções dos três padrões são diferentes. 
 
 A intenção do proxy é ter um objeto (o proxy) que fingirá ser o objeto real para controle de acesso. O objeto Proxy receberá as solicitações que seriam enviadas ao objeto real e terá controle sobre como e quando encaminha-las (ou não) para objeto real. O objeto proxy atinge seu objetivo se posicionando entre o código cliente e o objeto real.
