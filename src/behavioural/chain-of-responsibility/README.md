@@ -8,7 +8,7 @@
 
 ## Sobre o Chain Of Responsibility
 
-Em vídeo: https://www.youtube.com/watch?v=AdzLq9FVTXs&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=37
+
 
 ---
 
