@@ -10,7 +10,6 @@
 
 ## Sobre o Bridge
 
-Em vídeo: https://www.youtube.com/watch?v=-gsuMWLxAko&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=18
 
 O bridge foca o trabalho em composição, ou seja, ao invés de extender infinitamente minha estrutura de classes para todas as possíveis variantes por herança, posso apenas manter uma referência para uma implementação dentro da minha abstração. Isso me permite encaminhar chamadas de métodos da abstração para a implementação em tempo de execução.
 
