@@ -8,8 +8,6 @@
 
 ## Sobre o Template Method
 
-Em vídeo: https://www.youtube.com/watch?v=-nSOKE4f2gA&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=39
-
 ---
 
 ## Estrutura

@@ -8,7 +8,7 @@
 
 ## Destilando a intenção
 
-Em vídeo: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+
 
 O Singleton é um padrão de projeto que tem a intenção de resolver dois problemas em uma aplicação:  
 

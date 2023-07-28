@@ -8,7 +8,6 @@
 
 ## Sobre o Observer
 
-Em vídeo: https://www.youtube.com/watch?v=iMV1aHaijhQ&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=41
 
 ---
 

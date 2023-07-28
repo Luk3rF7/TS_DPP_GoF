@@ -8,7 +8,7 @@
 
 ## Sobre o Visitor
 
-Em vídeo: https://www.youtube.com/watch?v=5PRG7rT2dcU&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=45
+
 
 ---
 

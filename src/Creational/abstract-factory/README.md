@@ -8,7 +8,6 @@
 
 ## Sobre o Abstract Factory
 
-Em vídeo: https://www.youtube.com/watch?v=UPSuHqNsNs4&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=12
 
 O Abstract Factory é usado para garantir que uma família de produtos relacionados ou dependentes trabalhem sempre juntos (*veja aplicabilidade para mais casos de uso*).  
 

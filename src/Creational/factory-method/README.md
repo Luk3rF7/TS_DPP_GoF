@@ -8,7 +8,6 @@
 
 ## Sobre o Factory Method
 
-Em vídeo: https://www.youtube.com/watch?v=1rB0PhvAwiU&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=10
 
 - É um padrão de projeto de criação (lida com a criação de objetos)
 - Oculta a lógica de instanciação do código cliente. O método fábrica será responsável por instanciar as classes desejadas
