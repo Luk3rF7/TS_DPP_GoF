@@ -10,7 +10,7 @@
 
 ## Sobre o Flyweight
 
-Em vídeo: https://www.youtube.com/watch?v=WPQa64bdQbk&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=25
+
 
 O Flyweight visa dividir um objeto em dois estados: o estado intrínseco e o estado extrínseco.
 
