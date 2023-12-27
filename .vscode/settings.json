@@ -1,19 +1,2 @@
 {
-  "window.zoomLevel": 0.3,
-  "code-runner.executorMap": {
-    "typescript": "clear && npx ts-node  --transpile-only",
-    "javascript":"clear && node",
-    "python": "clear && venv/bin/python",
-  },
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.fixAll": true
-  },
-  "python.pythonPath": "venv/bin/python",
-  "cSpell.enabled": true,
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.tabSize": 2,
-  "editor.fontSize": 18,
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "terminal.integrated.automationProfile.windows": {}
 }
